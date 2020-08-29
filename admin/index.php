@@ -9,9 +9,9 @@
 		<form action="login.php" method="post" class="container">
 			<h1>Login</h1>
 				<label for="name">Name</label>
-				<input type="text" name="name" id="name" placeholder="Enter Your Name" required>
+				<input type="text" name="name" id="name" placeholder="Enter Your Name//(admin)" required>
 				<label for="password">password</label>
-				<input type="password" name="password" id="password" placeholder="Enter Password" required>
+				<input type="password" name="password" id="password" placeholder="Enter Password//(123456)">
 			<br><br>
 			<input type="submit" name="submit" value="Admin Login" class="btn">
 		</form>

@@ -41,7 +41,7 @@
 		</div> 
 	
 		<nav class="navbar navbar-default bg-light">
-			<div class=" container-fluid">
+			<!-- <div class=" container-fluid"> -->
 				<div class="navbar-header">
 					<a href="index.php" class="navbar-brand" style="text-decoration: none; display: block;">Books Store</a>
 				</div>
@@ -52,7 +52,7 @@
 					</a>
 					</li>
 				</ul>
-			</div>
+			<!-- </div> -->
 		</nav>
 
 		<div class="row">
